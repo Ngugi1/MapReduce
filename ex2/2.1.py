@@ -5,7 +5,6 @@ class MRWordFreqCount(MRJob):
     def mapper_pre_process_customer(self, _, line):
         try: # This prevents us from the first line of csv
             # Get components of the record
-            # Reverse string to avoid having problems with commas inside string literals
             spit_line = line.split(",") 
             length = len(spit_line) - 1
             # Customer Id
