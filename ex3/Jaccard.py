@@ -70,6 +70,6 @@ class JacardDistanceofSummary(MRJob):
     
     # reducer to provide minimum jaccard index related paper if
     def reducer_minjaccard(self, _, jaccardsummary_id):
-        yield min(jaccardsummary_id)
+        yield 'Most  similar paper with jacard distance: ', min(jaccardsummary_id)
 
 JacardDistanceofSummary.run()
