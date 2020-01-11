@@ -1,6 +1,0 @@
-In this project we analysed how much semantic information images carry, and 
-how much value image data can add to sentiment analysis of the text associated 
-with the images. To better understand the contribution from images, we compared 
-models which only made use of image data, models which only made use of text 
-data, and models which combined both data types. We also analysed if this 
-approach could help sentiment classifiers generalize to unknown sentiments
