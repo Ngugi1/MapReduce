@@ -1,0 +1,13 @@
+[
+    {
+        "author": "[{'name': 'I. Theodorakopoulos'}, {'name': 'V. Pothos'}, {'name': 'D. Kastaniotis'}, {'name': 'N. Fragoulis'}]",
+        "day": 18,
+        "id": "1701.05221v5",
+        "link": "[{'rel': 'alternate', 'href': 'http://arxiv.org/abs/1701.05221v5', 'type': 'text/html'}, {'rel': 'related', 'href': 'http://arxiv.org/pdf/1701.05221v5', 'type': 'application/pdf', 'title': 'pdf'}]",
+        "month": 1,
+        "summary": "A new, radical CNN design approach is presented in this paper, considering\nthe reduction of the total computational load during inference. This is\nachieved by a new holistic intervention on both the CNN architecture and the\ntraining procedure, which targets to the parsimonious inference by learning to\nexploit or remove the redundant capacity of a CNN architecture. This is\naccomplished, by the introduction of a new structural element that can be\ninserted as an add-on to any contemporary CNN architecture, whilst preserving\nor even improving its recognition accuracy. Our approach formulates a\nsystematic and data-driven method for developing CNNs that are trained to\neventually change size and form in real-time during inference, targeting to the\nsmaller possible computational footprint. Results are provided for the optimal\nimplementation on a few modern, high-end mobile computing platforms indicating\na significant speed-up of up to x3 times.",
+        "tag": "[{'term': 'cs.CV', 'scheme': 'http://arxiv.org/schemas/atom', 'label': None}, {'term': 'cs.AI', 'scheme': 'http://arxiv.org/schemas/atom', 'label': None}, {'term': 'cs.LG', 'scheme': 'http://arxiv.org/schemas/atom', 'label': None}, {'term': 'cs.NE', 'scheme': 'http://arxiv.org/schemas/atom', 'label': None}, {'term': '68T10, 62H30, 68Q32, 68T05, 68Q32, 91E40', 'scheme': 'http://arxiv.org/schemas/atom', 'label': None}, {'term': 'I.5; F.1.1; F.4.1; K.3.2; I.4; I.4.8', 'scheme': 'http://arxiv.org/schemas/atom', 'label': None}]",
+        "title": "Parsimonious Inference on Convolutional Neural Networks: Learning and\n  applying on-line kernel activation rules",
+        "year": 2017
+    }
+]
